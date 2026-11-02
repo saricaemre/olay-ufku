@@ -1,0 +1,25 @@
+OLAY UFKU · menü çubuğunda video indirici
+
+KURULUM
+1. "Olay Ufku" simgesini yandaki "Uygulamalar" klasörüne sürükle.
+2. Uygulamalar klasöründen Olay Ufku'yu aç.
+3. İlk açılışta macOS "Apple doğrulayamadı" diye uyarır. Uygulama bir
+   arkadaştan geldiği için böyle; "Bitti"ye bas, sonra:
+   Sistem Ayarları › Gizlilik ve Güvenlik › en aşağıda
+   "Olay Ufku engellendi" yazısının yanındaki "Yine de Aç" düğmesine bas
+   ve parolanı gir. Bunu yalnız bir kez yaparsın.
+
+KULLANIM
+1. Tarayıcıda videonun linkini kopyala (adres çubuğuna tıkla, ⌘C).
+2. Ekranın en üstünde, sağda, önünden halka geçen küçük siyah topa tıkla.
+3. ⌘V'ye bas (ya da "Linki yapıştır ve indir"e tıkla).
+
+Video İndirilenler klasörüne iner. İnerken simgenin yanında yüzde,
+bitince ✓ görünür. Menüdeki "Biçim" ile yalnız sesi (MP3) de alabilirsin.
+Bilgisayar her açıldığında başlasın istersen menüden "Girişte başlat"ı seç.
+
+İlk indirmede macOS İndirilenler klasörüne ve panoya erişim izni
+isteyebilir; izin ver.
+
+Gerekenler: Apple çipli Mac (M1 ve sonrası), macOS 15 ya da daha yeni.
+İndirme işini yt-dlp yapar; haftada bir kendini günceller.
